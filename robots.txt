@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ftic7g.yoursingles.online/sitemap.xml
